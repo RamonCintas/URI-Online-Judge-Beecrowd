@@ -24,6 +24,59 @@ Repositório com programas desenvolvidos para praticar a linguagem de programaç
 ##
 
 <div align="eight">
+  <b><h1>🎯 Tarefas</h1></b>
+</div>
+
+<div align="center">
+<details>
+<summary>Clique para visualizar as tarefas feitas</summary>
+
+|      Estado      |     Plataforma   |                 Tarefa                |
+|      :---:       |       :---:      |                  :---:                |
+|:heavy_check_mark:|:computer:        |1000 - Hello World!.py|
+|:heavy_check_mark:|:computer:        |1001 - Extremamente Básico.py|
+|:heavy_check_mark:|:computer:        |1002 - Área do Círculo.py|
+|:heavy_check_mark:|:computer:        |1003 - Soma Simples.py|
+|:heavy_check_mark:|:computer:        |1004 - Produto Simples.py|
+|:heavy_check_mark:|:computer:        |1005 - Média 1.py|
+|:heavy_check_mark:|:computer:        |1006 - Média 2.py|
+|:heavy_check_mark:|:computer:        |1007 - Diferença.py|
+|:heavy_check_mark:|:computer:        |1008 - Salário.py|
+|:heavy_check_mark:|:computer:        |1009 - Salário com Bônus.py|
+|:heavy_check_mark:|:computer:        |1010 - Cálculo Simples.py|
+|:heavy_check_mark:|:computer:        |1011 - Esfera.py|
+|:heavy_check_mark:|:computer:        |1012 - Área.py|
+|:heavy_check_mark:|:computer:        |1013 - O Maior.py|
+|:heavy_check_mark:|:computer:        |1014 - Consumo.py|
+|:heavy_check_mark:|:computer:        |1015 - Distância Entre Dois Pontos.py|
+|:heavy_check_mark:|:computer:        |1016 - Distância.py|
+|:heavy_check_mark:|:computer:        |1017 - Gasto de Combustível.py|
+|:heavy_check_mark:|:computer:        |1018 - Cédulas.py|
+|:heavy_check_mark:|:computer:        |1019 - Conversão de Tempo.py|
+|:heavy_check_mark:|:computer:        |1020 - Idade em Dias.py|
+|:heavy_check_mark:|:computer:        |1021 - Notas e Moedas.py|
+|:heavy_check_mark:|:computer:        |1035 - Teste de seleção 1.py|
+|:heavy_check_mark:|:computer:        |1036 - Fórmula de Bhaskara.py|
+|:heavy_check_mark:|:computer:        |1037 - Intervalo.py|
+|:heavy_check_mark:|:computer:        |1038 - Lanche.py|
+|:heavy_check_mark:|:computer:        |1040 - Média 3.py|
+|:heavy_check_mark:|:computer:        |1044 - Múltiplos.py|
+|:heavy_check_mark:|:computer:        |1050 - DDD.py|
+|:heavy_check_mark:|:computer:        |1059 - Números Pares.py|
+|:heavy_check_mark:|:computer:        |1060 - Números Positivos.py|
+|:heavy_check_mark:|:computer:        |1065 - Pares entre Cinco Números.py|
+|:heavy_check_mark:|:computer:        |1759 - Ho Ho Ho.py|
+|:heavy_check_mark:|:computer:        |1933 - Tri-du.py|
+|:heavy_check_mark:|:computer:        |2235 - Andando no Tempo.py|
+|:heavy_check_mark:|:computer:        |2747 - Saída 1.py|
+|:heavy_check_mark:|:computer:        |2791 - Feijão.py|
+
+</details>
+</div>
+
+##
+
+<div align="eight">
   <b><h1>💻 Executar</h1></b>
 </div>
 
