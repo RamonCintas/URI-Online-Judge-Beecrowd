@@ -14,6 +14,16 @@ Repositório com programas desenvolvidos para praticar a linguagem de programaç
 ##
 
 <div align="eight">
+  <b><h1>📊 Status do projeto</h1></b>
+</div>
+
+<div align="center">
+  <b>🏆 Finalizado 🏆</b>
+</div>
+
+##
+
+<div align="eight">
   <b><h1>💻 Executar</h1></b>
 </div>
 
